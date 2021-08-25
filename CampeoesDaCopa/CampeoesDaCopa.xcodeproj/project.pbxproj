@@ -65,6 +65,7 @@
 		EB483F3926D2D593007D0114 /* WorldCupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB483F3826D2D593007D0114 /* WorldCupViewController.swift */; };
 		EB483F3C26D2D5C5007D0114 /* WorldCup.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB483F3B26D2D5C5007D0114 /* WorldCup.swift */; };
 		EB483F4026D2DE75007D0114 /* winners.json in Resources */ = {isa = PBXBuildFile; fileRef = EB483F3F26D2DE75007D0114 /* winners.json */; };
+		EBB52C0026D5CAC600E1A8DD /* WorldCupTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB52BFF26D5CAC600E1A8DD /* WorldCupTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,6 +129,7 @@
 		EB483F3826D2D593007D0114 /* WorldCupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCupViewController.swift; sourceTree = "<group>"; };
 		EB483F3B26D2D5C5007D0114 /* WorldCup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCup.swift; sourceTree = "<group>"; };
 		EB483F3F26D2DE75007D0114 /* winners.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = winners.json; sourceTree = "<group>"; };
+		EBB52BFF26D5CAC600E1A8DD /* WorldCupTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCupTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +245,7 @@
 			children = (
 				EB483F3526D2D0A7007D0114 /* WinnersTableViewController.swift */,
 				EB483F3826D2D593007D0114 /* WorldCupViewController.swift */,
+				EBB52BFF26D5CAC600E1A8DD /* WorldCupTableViewCell.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				EB483F3626D2D0A7007D0114 /* WinnersTableViewController.swift in Sources */,
 				EB483EBE26D2CA32007D0114 /* AppDelegate.swift in Sources */,
 				EB483F3C26D2D5C5007D0114 /* WorldCup.swift in Sources */,
+				EBB52C0026D5CAC600E1A8DD /* WorldCupTableViewCell.swift in Sources */,
 				EB483F3926D2D593007D0114 /* WorldCupViewController.swift in Sources */,
 				EB483EC026D2CA32007D0114 /* SceneDelegate.swift in Sources */,
 			);
